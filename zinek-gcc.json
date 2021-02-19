@@ -8,7 +8,7 @@
             "url": [
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-binutils-2.34-1-any.pkg.tar.xz",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-crt-git-8.0.0.5815.9517d302-1-any.pkg.tar.xz",
-		"http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-expat-2.2.10-1-any.pkg.tar.zst",
+                "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-expat-2.2.10-1-any.pkg.tar.zst",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-gcc-9.3.0-2-any.pkg.tar.xz",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-gcc-fortran-9.3.0-2-any.pkg.tar.xz",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-gcc-libgfortran-9.3.0-2-any.pkg.tar.xz",
@@ -30,7 +30,7 @@
             "hash": [
                 "c2c23fc704639f0e30a6aa094130f12028fd722d5961ef29df503f241d0bd93e",
                 "b2c79727807bf1c13881dbc5cc49617105e317cfff8a4e946d420163048fccb5",
-                "04ee9cc360b1aefb3729fec475001e1d35d94979a7dea1e604ac56015216df99",
+                "50cd229f8aed5ed4b0a066715a17d028f2898571975b24ac08dda70e8ad1d0bb",
                 "29ccb0030d1dae9fd194bb5bc76ba7330a7478b0afe1b2c0c19419a59c0980ef",
                 "228f8cb9ef89806fd96aba00d814d1f038e7ef84e5926730b427d79b5f225b73",
                 "c88596218c06622ee22df85bbd2f5b7e6fb99ea86f946d5f98f9c24b97f92dd0",
