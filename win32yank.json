@@ -1,0 +1,12 @@
+{
+	"version": "0.0.4",
+	"url": [
+		"https://github.com/equalsraf/win32yank/releases/download/v0.0.4/win32yank-x64.zip"
+	],
+	"hash": [
+		"33a747a92da60fb65e668edbf7661d3d902411a2d545fe9dc08623cecd142a20"
+	],
+	"bin": [
+		"win32yank.exe"
+	]
+}
